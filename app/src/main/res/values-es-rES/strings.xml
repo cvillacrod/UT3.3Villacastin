@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UT3Villacastin</string>
+    <string name="alorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua">ALorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="hello">Hola</string>
+    <string name="john">John</string>
+    <string name="search_elements">Buscar elementos</string>
+    <string name="games">Juegos</string>
+    <string name="contacts">Contactos</string>
+    <string name="health">Salud</string>
+    <string name="maps">Mapas</string>
+    <string name="trending">TRENDING</string>
+    <string name="dummy_text">Alorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua</string>
+    <string name="home">Inicio</string>
+    <string name="favorite">Favorito</string>
+    <string name="account">Cuenta</string>
+    <string name="settings">Ajustes</string>
+</resources>

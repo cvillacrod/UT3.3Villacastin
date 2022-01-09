@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Creamos la cabecera del dashboard, que es el que tiene el saludo
+    Ponemos el fondo de color verde, y redondeamos las esquinas inferiores. -->
+
+        <solid android:color="@color/colorPrimary"/>
+        <corners
+            android:bottomLeftRadius="30dp"
+            android:bottomRightRadius="30dp"/>
+
+    </shape>

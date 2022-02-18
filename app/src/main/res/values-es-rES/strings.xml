@@ -14,4 +14,14 @@
     <string name="favorite">Favorito</string>
     <string name="account">Cuenta</string>
     <string name="settings">Ajustes</string>
+    <string name="send">Enviar</string>
+    <string name="toast_seleccion">No ha seleccionado una opcion</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="salir">Salida</string>
+    <string name="enhorabuena">Enhorabuena</string>
+    <string name="correcto">Correcto</string>
+    <string name="error">Error</string>
+    <string name="reiniciar">Reiniciar</string>
+    <string name="repetir">Repetir</string>
+
 </resources>

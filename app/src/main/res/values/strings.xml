@@ -15,4 +15,13 @@
     <string name="account">Account</string>
     <string name="settings">Settings</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="send">Send</string>
+    <string name="toast_seleccion">Not selected any option</string>
+    <string name="siguiente">Next</string>
+    <string name="salir">Exit</string>
+    <string name="enhorabuena">Congrats</string>
+    <string name="correcto">Correct</string>
+    <string name="error">Wrong</string>
+    <string name="reiniciar">Restart</string>
+    <string name="repetir">Try again</string>
 </resources>

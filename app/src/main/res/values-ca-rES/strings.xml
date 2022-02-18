@@ -14,4 +14,13 @@
     <string name="favorite">Preferit</string>
     <string name="account">Compte</string>
     <string name="settings">Ajustaments</string>
+    <string name="send">Enviar</string>
+    <string name="toast_seleccion">No ha seleccionat una opció</string>
+    <string name="siguiente">Següent</string>
+    <string name="salir">Sortida</string>
+    <string name="enhorabuena">Enhorabona</string>
+    <string name="correcto">Correcte</string>
+    <string name="error">Error</string>
+    <string name="reiniciar">Reinicia</string>
+    <string name="repetir">Torna-ho a provar</string>
 </resources>

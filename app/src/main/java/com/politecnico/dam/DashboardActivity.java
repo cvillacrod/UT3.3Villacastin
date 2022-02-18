@@ -10,6 +10,7 @@ public class DashboardActivity extends AppCompatActivity {
 
     LinearLayout option_maps;
     LinearLayout option_salud;
+    LinearLayout option_game;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,6 +33,17 @@ public class DashboardActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i=new Intent (DashboardActivity.this, SaludActivity.class);
+                i.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
+                startActivity(i);
+            }
+        });
+
+        option_game=findViewById(R.id.layoutGames);
+        //Añadimos el escuchador del boton de maps
+        option_game.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i=new Intent (DashboardActivity.this, GameActivity.class);
                 i.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
                 startActivity(i);
             }

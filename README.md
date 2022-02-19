@@ -1,11 +1,11 @@
-# UT3.2_VillacastinRodaCristina
-Tarea paraPMDM03 - 2.
+UT3.3Villacastin
 ---------------
 * Cristina Villacastin Roda 
 * email:cvillacrod@educacion.navarra.es
 
-Respecto a la tarea 3 parte 2 de Programación Multimedia y Dispositivos Móviles, he seguido el tutorial y no he tenido grandes problemas que no pudiera solucionar.
+Respecto a la tarea 3.3 de Programación Multimedia y Dispositivos Móviles, con el enlace para poder conseguir la conexion a la base de datos con SQLite 
+y ayudada con videos ede Youtube https://www.youtube.com/watch?v=9WiyqIcffe0 he podido completar la tarea.
 
-El icono de MAPAS al hacer clic nos muestra la ubicacion actual y el icono de SALUD nos muentra un listado con los centros de salud, ademas haciendo clic en los centros nos muestra el telefono por unos segundos en la parte inferior de la pantalla.
-
-Tambien esta subido a Git,https://github.com/cvillacrod/UT3.2_VillacastinRodaCristina
+La App esta en Ingles, Español y Catalan. Tiene un ScreenSplash y el dashboard realizado tal y como indica la tarea.
+Y en este apartado se ha trabajado la opcion de Game, que simula un juego de preguntas con dos respuestas.
+Tambien esta subido a Git,https://github.com/cvillacrod/UT3.3Villacastin.git
